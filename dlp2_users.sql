@@ -1,0 +1,17 @@
+CREATE USER ftrusco; 
+CREATE USER htrusco;
+CREATE USER sborelli;
+CREATE USER hjoin;
+CREATE USER mcohen;
+CREATE USER elehmann;
+CREATE USER pcosta;
+CREATE USER jhuis;
+CREATE USER rmarty;
+CREATE USER mlassaire;
+CREATE USER kcassaigne;
+CREATE USER lbrauman;
+CREATE USER abeaunoir;
+CREATE USER ypaumard;
+CREATE USER jduguet;
+CREATE USER alawson;
+CREATE USER maintenance;
