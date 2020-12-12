@@ -1,4 +1,4 @@
-CREATE USER -P -e ftrusco; 
+CREATE USER ftrusco; 
 CREATE USER htrusco;
 CREATE USER sborelli;
 CREATE USER hjoin;
